@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:woodcutting",
+  "type": "charm:woodcutting",
   "ingredient": {
     "item": "minecraft:TYPE_wood"
   },

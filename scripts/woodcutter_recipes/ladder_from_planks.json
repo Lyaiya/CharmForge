@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:woodcutting",
+  "type": "chram:woodcutting",
   "ingredient": {
     "item": "minecraft:TYPE_planks"
   },
